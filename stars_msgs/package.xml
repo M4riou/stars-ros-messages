@@ -5,8 +5,10 @@
   <version>1.0.0</version>
   <description>Stars relevant messages</description>
   <maintainer email="valentin.rusche@udo.edu">Valentin Rusche</maintainer>
+  <maintainer email="marius.kortmann@udo.edu">Marius Kortmann</maintainer>
   <license>AGPL-3.0-or-later</license>
   <author email="valentin.rusche@udo.edu">Valentin Rusche</author>
+  <author email="marius.kortmann@udo.edu">Marius Kortmann</author>
 
   <buildtool_depend condition="$ROS_VERSION == 1">catkin</buildtool_depend>
   <buildtool_depend condition="$ROS_VERSION == 2">ament_cmake</buildtool_depend>
