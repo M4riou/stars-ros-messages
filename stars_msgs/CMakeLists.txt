@@ -10,7 +10,9 @@ set(MSG_FILES
     StarsActorInfo.msg
     StarsActorList.msg
     StarsActorState.msg
+    StarsReady.msg
     StarsSimulationStatus.msg
+    StarsSupervisor.msg
     StarsWaypoint.msg
     StarsWaypointList.msg
     StarsWorldInfo.msg
